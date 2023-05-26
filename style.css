@@ -7,5 +7,9 @@
 
 body{
     text-align: center;
-    background-color: pink;
+    display: flex;
+    background-color: dodgerblue;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
